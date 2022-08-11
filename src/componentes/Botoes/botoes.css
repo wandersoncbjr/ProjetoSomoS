@@ -1,0 +1,15 @@
+
+    .botao{
+        background-color: #0000FF;
+        width: 90px;
+        height: 40px;
+        border-radius: 6px;
+        font-weight: 700;
+        font-size: 18px;
+        border: none;
+        cursor: pointer;
+        color: #fff;
+        box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+        margin-left: 10px;
+        margin-top: 60px;
+    }
