@@ -3,8 +3,8 @@ import './botoes.css'
 function Botoes() {
     return (
         <div>
-            <input class="botao" type="button" value="Previous" />
-            <input class="botao" type="button" value="Next" />
+            <input className="botao" type="button" value="Previous" />
+            <input className="botao" type="button" value="Next" />
 
         </div>
 

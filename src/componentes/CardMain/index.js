@@ -8,7 +8,6 @@ function CardMain() {
             <div className="main-card">
                 <CardPokemons/>
                 <CardSecundario/>
-               
             </div>
         </div>
     )
